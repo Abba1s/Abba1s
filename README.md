@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abba1s](https://github.com/Abba1s)
 
-- 💬 Ask me about **React,Node,MongoDb**
+- 💬 Ask me about **React,Node,MongoDb,sockets,API's**
 
 - 📫 How to reach me **hk8079052@gmail.com**
 
