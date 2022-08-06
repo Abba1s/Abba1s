@@ -11,7 +11,7 @@
 <h3> My Resume <h3/>
  <a href ="https://github.com/Abba1s/Abba1s/blob/main/Abbas%20MERN.docx" >Download Resume </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abba1s&label=Profile%20views&color=0e75b6&style=flat" alt="abba1s" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abba1s&label=Profile%20views&color=0e75b6&style=flat" alt="abba1s" /> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
