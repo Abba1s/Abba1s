@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm M.Abbas</h1>
 <h3 align="center">A passionate MERN stack developer from kpk, PAK.</h3>
 
+- 🌱 I’m currently learning **Blockchain**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Abba1s](https://github.com/Abba1s)
 
-- 💬 Ask me about **React,Node,MongoDb,API's,Sockets**
+- 💬 Ask me about **React,Node,MongoDb,API's,Sockets.**
 
 - 📫 How to reach me **hk8079052@gmail.com**
 
