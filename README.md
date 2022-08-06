@@ -1,6 +1,6 @@
 <h1 align="center">Hello geeks 🙋‍♂️, M.Abbas Here</h1>
 <h3 align="center">A passionate MERN stack developer from kpk, PAK.</h3>
-<img align="right" width="400px" alt="code-blocks" src="[https://monophy.com/gifs/code-coding-web-design-RxAdKu5nrs32vhKEUq](https://monophy.com/media/RxAdKu5nrs32vhKEUq/monophy.gif)">
+<iframe src="https://giphy.com/embed/RxAdKu5nrs32vhKEUq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-web-design-RxAdKu5nrs32vhKEUq">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abba1s&label=Profile%20views&color=0e75b6&style=flat" alt="abba1s" /> </p>
 
 - 🌱 I’m currently learning **Blockchain**
