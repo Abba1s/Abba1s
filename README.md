@@ -17,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abba1s](https://github.com/Abba1s)
 
-- 💬 Ask me about **React,Node,MongoDb,API's,Sockets.**
+- 💬 Ask me about **React,Node,MongoDb,API's,Sockets, Blockchain**
 
-- 📫 How to reach me **hk8079052@gmail.com**
+- 📫 How to reach me **abbasmuh717@gmail.com**
 
 
 
